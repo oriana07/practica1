@@ -18,6 +18,9 @@ public class Oriana {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola soy oriana");
+        int edad=30;
+        System.out.println("mi eddad es : "+ edad);
+        
     }
     
 }
